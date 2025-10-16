@@ -738,6 +738,23 @@ border-radius: 15px;
 
        }
 
+
+
+       .sectiondoctors{
+             flex-direction: row;
+        display: flex;
+        justify-content: center;
+       }
+
+       .doctershed{
+         display: flex;
+          flex-direction: column;
+         justify-content: center;
+
+
+       }
+
+
          .HDOCTERS{ margin-left: 70px;
             border: 2px solid #21d282;
 background-color: #3dec8688;
@@ -750,6 +767,16 @@ border-radius:  9px   9px  0px   9px;
 font-size:16px ;
 width: 190px;
             margin-bottom: 15px;
+
+         }
+
+         .HDOCTERS1{
+
+
+  font-size: 1.4rem;
+            color: #2677BC;
+            margin-bottom: 15px;
+             
 
          }
 
