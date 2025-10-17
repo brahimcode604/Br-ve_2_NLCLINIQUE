@@ -145,7 +145,7 @@ p {
   line-height: 1.6;
 }
 
-.buttons {
+.buttons1 {
   display: flex;
   align-items: center;
   gap: 20px;
@@ -210,7 +210,7 @@ p {
 
 
 
-.booking-form {
+.booking-form1 {
   position:absolute;
 
   left: 600px;
@@ -218,7 +218,7 @@ p {
   background: #fff;
   border-radius: 20px   20px 0px 0px ;
   padding: 30px;
-  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+   
   max-width: 600px;
   margin: 40px auto;
   text-align: center;
@@ -1257,11 +1257,7 @@ label {
 
  
 
-input:focus,
-select:focus,
-textarea:focus {
-  border-color: #2575fc;
-}
+ 
 
 textarea {
   height: 100px;
@@ -1280,7 +1276,6 @@ textarea {
   padding: 14px 0;
   font-weight: 600;
   cursor: pointer;
-  transition: background 0.3s;
   width: 100%;
 }
 
@@ -1297,3 +1292,27 @@ flex-direction: column;
 }
 
  
+.input_control{
+ border: 3px solid  #E1E1E1;
+ border-radius: 9px;
+
+ height: 39px;
+
+
+
+}
+.mater_hvhjbhvh{
+
+ border: 3px solid  #E1E1E1;
+ border-radius: 9px;
+
+
+}
+.select_edfrvdbh{
+
+ border: 3px solid  #E1E1E1;
+ border-radius: 9px;
+
+ height: 39px;
+
+}
